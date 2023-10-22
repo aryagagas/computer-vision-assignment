@@ -2,8 +2,8 @@
 This is the assignment from Chapter 5: Computer Vision.
 
 In this chapter, I do:
-<br>● Implementation of digital image processing to improve image quality using Pooling and CLAHE techniques.
-<br>● Implementation of the Transfer Learning method for multi-classification cases using Deep Learning-based Computer Vision modeling, such as ResNet, DenseNet, and Vision Transformer (ViT).
+- Implementation of digital image processing to improve image quality using Pooling and CLAHE techniques.
+- Implementation of the Transfer Learning method for multi-classification cases using Deep Learning-based Computer Vision modeling, such as ResNet, DenseNet, and Vision Transformer (ViT).
 
 ## Task 1
 ### Case Study Description
